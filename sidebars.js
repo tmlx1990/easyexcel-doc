@@ -41,7 +41,26 @@ module.exports = {
                     // 扫描 docs/quickstart
                     dirName: 'quickstart',
                 },
+                {
+                    type: 'link',
+                    label: '最简单的读的对象',
+                    href: '/docs/current/quickstart/read#'+encodeURIComponent("最简单的读的对象")
+                }
             ],
+        },
+        {
+            type: 'category',
+            // 展示的名称
+            label: '测试',
+            // 默认打开
+            collapsed: false,
+            items: [
+                {
+                    type: 'link',
+                    label: '最简单的读的对象',
+                    href: '/docs/current/quickstart/read#'+encodeURIComponent("最简单的读的对象")
+                }
+            ]
         },
     ],
     // 在导航栏的api 直接扫描 docs/api 下面所有的文件
