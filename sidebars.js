@@ -44,7 +44,8 @@ module.exports = {
                 {
                     type: 'link',
                     label: '最简单的读的对象',
-                    href: '/docs/current/quickstart/read#'+encodeURIComponent("最简单的读的对象")
+                    //href: '/docs/current/quickstart/read#'+encodeURIComponent("最简单的读的对象")
+                    href: '/docs/current/quickstart/read#easiestRead'
                 }
             ],
         },
