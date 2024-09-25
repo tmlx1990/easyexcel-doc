@@ -16,11 +16,11 @@ DEMO代码地址：[https://github.com/alibaba/easyexcel/blob/master/easyexcel-t
 
 ### 最简单的填充的模板
 
-![img](../img/quickstart/fill/simpleFillTemplate.png)
+![img](../../static/img/quickstart/fill/simpleFillTemplate.png)
 
 ### 最终效果
 
-![img](../img/quickstart/fill/simpleFill.png)
+![img](../../static/img/quickstart/fill/simpleFill.png)
 
 ### 最简单的填充的对象
 
@@ -75,11 +75,11 @@ public class FillData {
 
 ### 模板
 
-![img](../img/quickstart/fill/listFillTemplate.png)
+![img](../../static/img/quickstart/fill/listFillTemplate.png)
 
 ### 最终效果
 
-![img](../img/quickstart/fill/listFill.png)
+![img](../../static/img/quickstart/fill/listFill.png)
 
 ### 对象
 
@@ -124,11 +124,11 @@ public class FillData {
 
 ### 模板
 
-![img](../img/quickstart/fill/complexFillTemplate.png)
+![img](../../static/img/quickstart/fill/complexFillTemplate.png)
 
 ### 最终效果
 
-![img](../img/quickstart/fill/complexFill.png)
+![img](../../static/img/quickstart/fill/complexFill.png)
 
 ### 对象
 
@@ -176,11 +176,11 @@ public class FillData {
 
 ### 模板
 
-![img](../img/quickstart/fill/complexFillWithTableTemplate.png)
+![img](../../static/img/quickstart/fill/complexFillWithTableTemplate.png)
 
 ### 最终效果
 
-![img](../img/quickstart/fill/complexFillWithTable.png)
+![img](../../static/img/quickstart/fill/complexFillWithTable.png)
 
 ### 对象
 
@@ -244,11 +244,11 @@ public class FillData {
 
 ### 模板
 
-![img](../img/quickstart/fill/horizontalFillTemplate.png)
+![img](../../static/img/quickstart/fill/horizontalFillTemplate.png)
 
 ### 最终效果
 
-![img](../img/quickstart/fill/horizontalFill.png)
+![img](../../static/img/quickstart/fill/horizontalFill.png)
 
 ### 对象
 
@@ -292,11 +292,11 @@ public class FillData {
 
 ### 模板
 
-![img](../img/quickstart/fill/compositeFillTemplate.png)
+![img](../../static/img/quickstart/fill/compositeFillTemplate.png)
 
 ### 最终效果
 
-![img](../img/quickstart/fill/compositeFill.png)
+![img](../../static/img/quickstart/fill/compositeFill.png)
 
 ### 对象
 
