@@ -16,7 +16,7 @@ description: 快速使用easyexcel的来完成excel的写入
 
 ### 对象
 
-参照：[最简单的写的对象](easyWrite#最简单的写的对象)
+参照：[最简单的写的对象](simpleWrite#最简单的写的对象)
 
 ### 代码
 
